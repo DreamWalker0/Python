@@ -1,6 +1,6 @@
 #Author: Jorge Guzman Nader
 #Date: 5/21/2019
-#Description: This program creates a list with all possible combinations of avecotr elements
+#Description: This program creates a list with all possible combinations of vector elements in a list form
 #Sample output: [[0, 0, 0], [0, 0, 1], [0, 1, 0], [1, 0, 0], [1, 1, 1]]
 
 x = int(input("Input X: "))
